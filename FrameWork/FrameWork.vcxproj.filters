@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="D3D Core">
+      <UniqueIdentifier>{7a9ad97c-09d8-4716-a30f-b6d891dc555c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="D3D Core\코어 헤더파일">
+      <UniqueIdentifier>{9de5f299-b97a-4cbc-8b76-fa4257b5fed2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="D3D Core\코어 소스">
+      <UniqueIdentifier>{6658b04b-ad02-4972-bbd6-56610a7d0b17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\GameManager">
+      <UniqueIdentifier>{cebaf1a7-eceb-4a76-b89b-546059c9a4bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\주인공">
+      <UniqueIdentifier>{53b382fa-6929-488f-a74a-bd8df9b6ca49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\낚시">
+      <UniqueIdentifier>{36243cc8-7e18-4e96-99a1-02263b967695}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\물고기">
+      <UniqueIdentifier>{bca9080a-5a35-4492-853a-34d515c3a3d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\마을">
+      <UniqueIdentifier>{e9ceb024-fa34-434d-a51e-36e6c3344851}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Option">
+      <UniqueIdentifier>{57c2130f-c0bb-48bb-ba74-ddf388efaa26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\아이템">
+      <UniqueIdentifier>{bc661815-e291-4224-b769-111043781b1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\거래">
+      <UniqueIdentifier>{a8084ff2-b0bb-4c07-bec6-b68f629d9a0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\아이템\인벤토리">
+      <UniqueIdentifier>{1320bedd-4d7a-4c16-92db-06255ce97916}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\낚시\파워바">
+      <UniqueIdentifier>{b9e07e61-f8b1-4556-a685-c0d808410957}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Mysql">
+      <UniqueIdentifier>{bd480b2c-6a28-44c6-bf9e-dc8dbd935ff4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Option\Quest">
+      <UniqueIdentifier>{d7a7ada0-d9e3-4044-9b1f-bd5221db36ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\주인공\Boat">
+      <UniqueIdentifier>{f256ea04-7818-4ba3-b508-fd8c748709e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\낚시\낚시,성공,실패">
+      <UniqueIdentifier>{1ab86dfa-1210-4824-afb4-63812b3d7e9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\낚시\물고기 유혹">
+      <UniqueIdentifier>{a91d47d5-930f-43f8-9e8e-d8dc97074a8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\마을\Npc">
+      <UniqueIdentifier>{a6862637-949b-4463-a7ce-7d9116a073da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\사운드">
+      <UniqueIdentifier>{61d52f9b-efee-4445-a052-f6c4ab5227fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\맵">
+      <UniqueIdentifier>{13bb9f74-4bfc-47bf-91dd-a899910e8f01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Load">
+      <UniqueIdentifier>{99427240-9007-439c-a171-e0d4dbc3a141}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Define.h">
+      <Filter>D3D Core\코어 헤더파일</Filter>
+    </ClInclude>
+    <ClInclude Include="key.h">
+      <Filter>D3D Core\코어 헤더파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>D3D Core\코어 헤더파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Chap.h">
+      <Filter>D3D Core\코어 헤더파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CMng.h">
+      <Filter>D3D Core\코어 헤더파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Logo.h">
+      <Filter>D3D Core\코어 헤더파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>D3D Core\코어 헤더파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Over.h">
+      <Filter>D3D Core\코어 헤더파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUTsound.h">
+      <Filter>D3D Core\코어 헤더파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>소스 파일\사운드</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>소스 파일\GameManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Include.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>소스 파일\맵</Filter>
+    </ClInclude>
+    <ClInclude Include="DeviceFont.h">
+      <Filter>D3D Core\코어 헤더파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Story.h">
+      <Filter>D3D Core\코어 헤더파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Cat.h">
+      <Filter>소스 파일\주인공</Filter>
+    </ClInclude>
+    <ClInclude Include="Power.h">
+      <Filter>소스 파일\낚시\파워바</Filter>
+    </ClInclude>
+    <ClInclude Include="Fish.h">
+      <Filter>소스 파일\물고기</Filter>
+    </ClInclude>
+    <ClInclude Include="Boat.h">
+      <Filter>소스 파일\주인공\Boat</Filter>
+    </ClInclude>
+    <ClInclude Include="Town.h">
+      <Filter>소스 파일\마을</Filter>
+    </ClInclude>
+    <ClInclude Include="Option.h">
+      <Filter>소스 파일\Option</Filter>
+    </ClInclude>
+    <ClInclude Include="Quest.h">
+      <Filter>소스 파일\Option\Quest</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>소스 파일\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>소스 파일\아이템\인벤토리</Filter>
+    </ClInclude>
+    <ClInclude Include="Deal.h">
+      <Filter>소스 파일\거래</Filter>
+    </ClInclude>
+    <ClInclude Include="Npc.h">
+      <Filter>소스 파일\마을\Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Comeonfish.h">
+      <Filter>소스 파일\낚시\물고기 유혹</Filter>
+    </ClInclude>
+    <ClInclude Include="Mysql.h">
+      <Filter>소스 파일\Mysql</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>소스 파일\낚시</Filter>
+    </ClInclude>
+    <ClInclude Include="Fishing.h">
+      <Filter>소스 파일\낚시\낚시,성공,실패</Filter>
+    </ClInclude>
+    <ClInclude Include="Load.h">
+      <Filter>소스 파일\Load</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="key.cpp">
+      <Filter>D3D Core\코어 소스</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>D3D Core\코어 소스</Filter>
+    </ClCompile>
+    <ClCompile Include="CMng.cpp">
+      <Filter>D3D Core\코어 소스</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>D3D Core\코어 소스</Filter>
+    </ClCompile>
+    <ClCompile Include="Over.cpp">
+      <Filter>D3D Core\코어 소스</Filter>
+    </ClCompile>
+    <ClCompile Include="Logo.cpp">
+      <Filter>D3D Core\코어 소스</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUTsound.cpp">
+      <Filter>D3D Core\코어 소스</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>소스 파일\사운드</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>소스 파일\GameManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>소스 파일\맵</Filter>
+    </ClCompile>
+    <ClCompile Include="DeviceFont.cpp">
+      <Filter>D3D Core\코어 소스</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Story.cpp">
+      <Filter>D3D Core\코어 소스</Filter>
+    </ClCompile>
+    <ClCompile Include="Cat.cpp">
+      <Filter>소스 파일\주인공</Filter>
+    </ClCompile>
+    <ClCompile Include="Power.cpp">
+      <Filter>소스 파일\낚시\파워바</Filter>
+    </ClCompile>
+    <ClCompile Include="Fish.cpp">
+      <Filter>소스 파일\물고기</Filter>
+    </ClCompile>
+    <ClCompile Include="Boat.cpp">
+      <Filter>소스 파일\주인공\Boat</Filter>
+    </ClCompile>
+    <ClCompile Include="Town.cpp">
+      <Filter>소스 파일\마을</Filter>
+    </ClCompile>
+    <ClCompile Include="Npc.cpp">
+      <Filter>소스 파일\마을\Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Option.cpp">
+      <Filter>소스 파일\Option</Filter>
+    </ClCompile>
+    <ClCompile Include="Quest.cpp">
+      <Filter>소스 파일\Option\Quest</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>소스 파일\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>소스 파일\아이템\인벤토리</Filter>
+    </ClCompile>
+    <ClCompile Include="Deal.cpp">
+      <Filter>소스 파일\거래</Filter>
+    </ClCompile>
+    <ClCompile Include="Comeonfish.cpp">
+      <Filter>소스 파일\낚시\물고기 유혹</Filter>
+    </ClCompile>
+    <ClCompile Include="Mysql.cpp">
+      <Filter>소스 파일\Mysql</Filter>
+    </ClCompile>
+    <ClCompile Include="Fishing.cpp">
+      <Filter>소스 파일\낚시\낚시,성공,실패</Filter>
+    </ClCompile>
+    <ClCompile Include="Load.cpp">
+      <Filter>소스 파일\Load</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>소스 파일\낚시</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Program Files\MySQL\MySQL Server 8.0\lib\libmysql.dll" />
+  </ItemGroup>
+</Project>

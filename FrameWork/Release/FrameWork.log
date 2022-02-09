@@ -1,0 +1,10 @@
+﻿  Option.cpp
+c:\users\4com\desktop\20180207_sql주석버전,제출용\framework\Cat.h(7): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Kitten' 왼쪽은 무시됩니다.
+c:\users\4com\desktop\20180207_sql주석버전,제출용\framework\Item.h(23): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Item::tem' 왼쪽은 무시됩니다.
+Option.cpp(820): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  0 of 260 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  FrameWork.vcxproj -> C:\Users\4com\Desktop\20180207_sql주석버전,제출용\Release\FrameWork.exe

@@ -1,0 +1,60 @@
+﻿  Boat.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Cat.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  CMng.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Comeonfish.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Deal.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  DXUTsound.cpp
+  DeviceFont.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Fish.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Fishing.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Game.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  GameManager.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Inventory.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Item.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  key.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Load.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Logo.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Main.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Map.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Menu.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Mysql.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Npc.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Option.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Over.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Power.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Quest.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Sound.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Sprite.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Story.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Town.cpp
+E:\0.study\Fishing4Cat-Fianl\FrameWork\Include.h(20,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  코드를 생성하고 있습니다...
